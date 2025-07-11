@@ -9,6 +9,7 @@ This repository contains well-structured, beginner-to-advanced level coding exam
 
 This repository focuses on **learning and practicing** the core ideas of ML. It includes:
 
+#### Currently Running
 ### ✅ Supervised Learning
 - Linear Regression
 - Logistic Regression
@@ -16,7 +17,8 @@ This repository focuses on **learning and practicing** the core ideas of ML. It 
 - Random Forests
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
-
+- 
+#### Will be uploaded soon..
 ### ✅ Unsupervised Learning
 - K-Means Clustering
 - Hierarchical Clustering
